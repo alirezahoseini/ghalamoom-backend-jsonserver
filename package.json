@@ -1,0 +1,22 @@
+{
+  "name": "ghalamoom-backend-jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server -w db.json --port 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezahoseini/ghalamoom-backend-jsonserver.git"
+  },
+  "author": "alireza hosseini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alirezahoseini/ghalamoom-backend-jsonserver/issues"
+  },
+  "homepage": "https://github.com/alirezahoseini/ghalamoom-backend-jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
