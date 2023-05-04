@@ -16,7 +16,11 @@
     "url": "https://github.com/alirezahoseini/ghalamoom-backend-jsonserver/issues"
   },
   "homepage": "https://github.com/alirezahoseini/ghalamoom-backend-jsonserver#readme",
+  "devDependencies": {
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
+  },
   "dependencies": {
-    "json-server": "^0.17.3"
+    "cors": "^2.8.5"
   }
 }
